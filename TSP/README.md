@@ -1,1 +1,1 @@
-# Traveling Salesmen Problem (TSP)
+# Traveling Salesman Problem (TSP)
