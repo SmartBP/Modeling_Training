@@ -1,4 +1,4 @@
-# SmartBP Modeling Training
+# SmartBP® Modeling Training
 
 
 ## Index of Modeling Problems
@@ -6,6 +6,14 @@
 - [TSP](https://github.com/SmartBP/Modeling_Training/tree/master/TSP)
 
 
+
+## Get your IBM® ILOG CPLEX Optimization Studio edition
+
+- You can get a free [Community Edition](http://www-01.ibm.com/software/websphere/products/optimization/cplex-studio-community-edition)
+ of CPLEX Optimization Studio, with limited solving capabilities in term of problem size.
+
+- Faculty members, research professionals at accredited institutions can get access to an unlimited version of CPLEX through the
+ [IBM® Academic Initiative](http://www-304.ibm.com/ibm/university/academic/pub/page/ban_ilog_programming).
 
 #### For more information about SmartBP
 - [Website](http://www.smart-bp.com)
