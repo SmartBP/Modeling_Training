@@ -11,3 +11,16 @@ A company needs to decide their production plan for the next month. They produce
 |    B    |   70   |   20   |       15        |
 |    C    |  100   |   10   |        5        |
 |    D    |   20   |   70   |       25        |
+
+
+
+
+
+
+## Get your IBM® ILOG CPLEX Optimization Studio edition
+
+- You can get a free [Community Edition](http://www-01.ibm.com/software/websphere/products/optimization/cplex-studio-community-edition)
+ of CPLEX Optimization Studio, with limited solving capabilities in term of problem size.
+
+- Faculty members, research professionals at accredited institutions can get access to an unlimited version of CPLEX through the
+ [IBM® Academic Initiative](http://www-304.ibm.com/ibm/university/academic/pub/page/ban_ilog_programming).
