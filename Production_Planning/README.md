@@ -23,4 +23,4 @@ A company needs to decide their production plan for the next month. They produce
  of CPLEX Optimization Studio, with limited solving capabilities in term of problem size.
 
 - Faculty members, research professionals at accredited institutions can get access to an unlimited version of CPLEX through the
- [IBM® Academic Initiative](http://www-304.ibm.com/ibm/university/academic/pub/page/ban_ilog_programming).
+ [IBM® Academic Initiative](https://www.ibm.com/academic/technology/data-science).
