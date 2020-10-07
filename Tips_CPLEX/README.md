@@ -27,3 +27,4 @@
 - [Like Us](https://www.facebook.com/Smartbp-122794631689852/?ref=bookmarks)
 - [Follow Us](https://twitter.com/Smart_BP)
 - [Connect with Us](https://www.linkedin.com/company/smartbp/?viewAsMember=true)
+- [YouTube](https://www.youtube.com/c/SmartBP)

@@ -24,3 +24,10 @@ A company needs to decide their production plan for the next month. They produce
 
 - Faculty members, research professionals at accredited institutions can get access to an unlimited version of CPLEX through the
  [IBM® Academic Initiative](https://www.ibm.com/academic/technology/data-science).
+
+ #### For more information about SmartBP
+ - [Website](http://www.smart-bp.com)
+ - [Like Us](https://www.facebook.com/Smartbp-122794631689852/?ref=bookmarks)
+ - [Follow Us](https://twitter.com/Smart_BP)
+ - [Connect with Us](https://www.linkedin.com/company/smartbp/?viewAsMember=true)
+ - [YouTube](https://www.youtube.com/c/SmartBP)
