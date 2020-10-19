@@ -3,8 +3,8 @@
 
 ## OPL Tips
 
-- Modify a tuple set in a scripting loop
-- Several incremental changes
+- [Modify a tuple set in a scripting loop](https://github.com/SmartBP/Modeling_Training/blob/master/Tips_CPLEX/OPL/changeTuplesWithLoop.mod): Modify every element of an existing tuple with a loop. 
+- [Several incremental changes](https://github.com/SmartBP/Modeling_Training/blob/master/Tips_CPLEX/OPL/incrementalChanges.mod): Use flow control to solve an instance of a model, then modify a restriction and solve the model again. 
 
 ## Python Tips (docplex)
 
