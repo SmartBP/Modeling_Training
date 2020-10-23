@@ -19,7 +19,14 @@ This modeling example is at the advanced level, where we assume that you know Py
 
 ## Actual example
 
-In order to present the VRPTW problem, the problem is defined on a complete directed graph G = (V, A), a set of customers and depots is created where V = {v0, v1, v2, v3, v4 , v5} is the set of nodes and A is the set of arcs. Vertex v0 and v5 are special nodes called origin and destination depots, vertices v1 to v4 represent customers. A cost c(i,j) and a travel time t(i,j) are defined for every arc (vi, vj ) ∈ A. Every customer vi ∈ V\{v0, v5} has a positive demand di , a time window [ai , bi ] and a positive service time servi . A fleet of 2 vehicles of capacity 100 is available for serving the customers. Vehicles must begin and end their routes at the depot within a time horizon [a0, b0]. The cumulative demand of the customers visited by a route is limited by 100. The service of a customer has to start within its time window, but a vehicle is allowed to arrive earlier and to wait. 
+In order to present the VRPTW problem, the problem is defined on a complete directed graph G = (V, A), a set of customers and depots is created where V = {v0, v1, v2, v3, v4 , v5} is the set of nodes and A is the set of arcs. 
+- Vertex v0 and v5 are special nodes called origin and destination depots, vertices v1 to v4 represent customers
+- A cost c(i,j) and a travel time t(i,j) are defined for every arc (vi, vj ) ∈ A 
+- Every customer vi ∈ V\{v0, v5} has a positive demand di , a time window [ai , bi ] and a positive service time servi 
+- A fleet of 2 vehicles of capacity 100 is available for serving the customers 
+- Vehicles must begin and end their routes at the depot within a time horizon [a0, b0] 
+- The cumulative demand of the customers visited by a route is limited by 100
+- The service of a customer has to start within its time window, but a vehicle is allowed to arrive earlier and to wait. 
 
 ## Get your IBM® ILOG CPLEX Optimization Studio edition
 
