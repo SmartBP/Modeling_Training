@@ -4,7 +4,7 @@
 ## Problem Description 
 The VRPTW can be described as follows. Given a set of customers, a set of vehicles, and a depot, the VRPTW is to find a set of routes of minimal total length, starting and ending at the depot, such that each customer is visited by exactly one vehicle to satisfy a specific demand. Customer visit has to respect a requested time window. A vehicle can wait in case of early arrival, but late arrival is not allowed. In connection with customer demands, a capacity constraint restricts the load that can be carried by a vehicle.
 
-### CPLEX lisence
+### CPLEX license
 
 In order to run this `.mod` properly, you must have a IBM® ILOG CPLEX license.
 
