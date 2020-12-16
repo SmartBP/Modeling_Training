@@ -5,6 +5,7 @@
 
 - [Modify a tuple set in a scripting loop](https://github.com/SmartBP/Modeling_Training/blob/master/Tips_CPLEX/OPL/changeTuplesWithLoop.mod): Modify every element of an existing tuple with a loop. 
 - [Several incremental changes](https://github.com/SmartBP/Modeling_Training/blob/master/Tips_CPLEX/OPL/incrementalChanges.mod): Use flow control to solve an instance of a model, then modify a restriction and solve the model again. 
+- Database connection: Use a JDBC connection to retrieve the data from a database to a dat file.
 
 ## Python Tips (docplex)
 

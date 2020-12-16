@@ -1,0 +1,5 @@
+JDBCConnection conn("jdbc:sqlite:product_data.db",
+					"DROP TABLE IF EXISTS results; CREATE TABLE results (Product VARCHAR, Inside INTEGER, Outside INTEGER)");
+
+Products from JDBCRead(conn, "SELECT name, demand, insideCost, outsideCost, consumptionFlour, consumptionEggs" FROM products");
+Results to JDBCPublish(conn, "INSERT INTO results VALUES(?, ?, ?)");
