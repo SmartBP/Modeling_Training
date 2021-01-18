@@ -1,0 +1,15 @@
+SheetConnection file ( "Scheduling-workers.xlsx" ); 
+// Workers data
+Workers        from SheetRead (file, "Workers!A2:D16");
+Skills         from SheetRead (file, "Skills!A2:B8");
+Proficiencies  from SheetRead (file, "Proficiencies!A2:C18");
+// Tasks data
+Tasks          from SheetRead (file, "Tasks!A2:C130");
+Hierarchy    from SheetRead (file, "Hierarchy!A2:B129");
+Precedences    from SheetRead (file, "Precedences!A2:D243");
+Requirements   from SheetRead (file, "Requirements!A2:B182");
+RequiredSkills from SheetRead (file, "RequiredSkills!A2:D182");
+// KPIs
+MakespanWeight     from SheetRead (file, "KPIs!B2");
+FixedWeight        from SheetRead (file, "KPIs!B3");
+VariableWeight from SheetRead (file, "KPIs!B4");
