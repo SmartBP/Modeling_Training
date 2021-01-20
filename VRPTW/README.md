@@ -28,6 +28,8 @@ In order to present the VRPTW problem, the problem is defined on a complete dire
 - The cumulative demand of the customers visited by a route is limited by 100
 - The service of a customer has to start within its time window, but a vehicle is allowed to arrive earlier and to wait. 
 
+## Video Tutorials
+You can find a complete playlist with the tutorials and the walkthrough of the VRPTW by clicking [here](https://www.youtube.com/watch?v=gNeTPxgZ5RE&list=PL_xEQLGJPHhL_Pi7bchXaXI5YBJhhGp17).
 ## Get your IBM® ILOG CPLEX Optimization Studio edition
 
 - You can get a free [Community Edition](http://www-01.ibm.com/software/websphere/products/optimization/cplex-studio-community-edition)

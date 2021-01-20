@@ -5,6 +5,7 @@
 - [Production Planning](https://github.com/SmartBP/Modeling_Training/tree/master/Production_Planning)
 - [TSP](https://github.com/SmartBP/Modeling_Training/tree/master/TSP)
 - [VRPTW](https://github.com/SmartBP/Modeling_Training/tree/master/VRPTW)    
+- [Machine Learning + Decision Optimization](https://github.com/SmartBP/Modeling_Training/tree/master/Machine%20Learning%20%2B%20Decision%20Optimization)
 
 
 ## Get your IBM® ILOG CPLEX Optimization Studio edition
