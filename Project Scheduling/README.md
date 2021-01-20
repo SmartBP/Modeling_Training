@@ -23,6 +23,13 @@ For more detailed decision making we have:
 
 - Faculty members, research professionals at accredited institutions can get access to an unlimited version of CPLEX through the
  [IBM® Academic Initiative](https://www.ibm.com/academic/technology/data-science).
+ 
+ ## IBM Watson Studio
+
+[IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) is a platform software for data science. The advantage of using Watson is having a workspace that includes multiple collaboration and open-source tools such as RStudio, Spark and Python, all in an integrated environment. 
+
+As you create a new project, you can add multiple collaborators, all having access to various predictive and prescriptive analytics models. Data can be accessed through Watson Data Platform, on-premise or on the cloud.
+
 
 #### For more information about SmartBP
 - [Website](http://www.smart-bp.com)
