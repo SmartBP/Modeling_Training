@@ -12,7 +12,9 @@ A company needs to decide their production plan for the next month. They produce
 |    C    |  100   |   10   |        5        |
 |    D    |   20   |   70   |       25        |
 
+## Video tutorial
 
+Follow [this link](https://www.youtube.com/watch?v=__4AfV37XVI&list=PL_xEQLGJPHhLxR3GHYxLJSmvLCUyCs3ME) for watching the full tutorial to create a production planning problem using Python and CPLEX.
 
 
 
